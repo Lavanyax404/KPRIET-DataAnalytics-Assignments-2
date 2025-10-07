@@ -12,7 +12,7 @@
 
 1. **Dev.to Blog - Data in Cloud**  
    - Blog URL: `https://dev.to/lavanya_priya_3c9225a7a5b/understanding-6-common-data-formats-in-cloud-data-analytics-1g8o`  
-   - Screenshot: `Paste screenshot link or attach file here`  
+   - Screenshot: `![image alt](https://github.com/Lavanyax404/KPRIET-DataAnalytics-Assignments-2/blob/aba748423623be6daa40d6dbb19514729dcf85c6/images/Dev.to%20blog.png)`  
 
 2. **Kaggle Topic - Discussions**  
    - Discussion URL: `https://www.kaggle.com/discussions/getting-started/610408`  
