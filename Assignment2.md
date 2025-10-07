@@ -30,4 +30,3 @@
 6. **Derive Insights from BigQuery Data**  
    - Badge URL: https://www.credly.com/badges/d9be5c2e-c4d1-4658-b6e3-49cab15a6998/public_url
   
-     
